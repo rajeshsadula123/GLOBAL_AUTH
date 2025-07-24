@@ -35,5 +35,9 @@ Method get_global_authorizations --> Not added any code ( By defalut having acce
 <img width="648" height="400" alt="image" src="https://github.com/user-attachments/assets/796edc64-acd4-42f6-acf9-98251c014b63" />
 
 
+
 **Step 2 - Implement Authorization by adding required code in method: get_global_authorizations**
+
+Disable access to update/edit action.
+<img width="620" height="465" alt="image" src="https://github.com/user-attachments/assets/f288eb34-0bfd-4a03-9444-fce2faaf3822" />
 
