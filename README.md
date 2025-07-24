@@ -32,4 +32,7 @@ Method get_global_authorizations --> Not added any code ( By defalut having acce
 
 <img width="918" height="374" alt="image" src="https://github.com/user-attachments/assets/417f9bd9-10a0-4c18-b9ea-596775ce5c27" />
 
+<img width="648" height="400" alt="image" src="https://github.com/user-attachments/assets/796edc64-acd4-42f6-acf9-98251c014b63" />
+
+
 
