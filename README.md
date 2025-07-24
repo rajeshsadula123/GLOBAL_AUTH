@@ -1,4 +1,4 @@
-# GLOBAL_AUTH and Instance Auth
+# Global and Instance Authorization
 Method **get_global_authorizations** in RAP Application
 
 **What is Authorization in RAP**
