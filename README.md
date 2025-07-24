@@ -20,7 +20,7 @@ Instance authorization is used for all authorization checks, in addition to the 
 
 # Implementation
 
-**Step 1**
+**Step 1 - Default Authorization / Not added any code to method: get_global_authorizations**
 
 Add global keyword in Behavior Definition file.
 
@@ -35,4 +35,5 @@ Method get_global_authorizations --> Not added any code ( By defalut having acce
 <img width="648" height="400" alt="image" src="https://github.com/user-attachments/assets/796edc64-acd4-42f6-acf9-98251c014b63" />
 
 
+**Step 2 - Implement Authorization by adding required code in method: get_global_authorizations**
 
