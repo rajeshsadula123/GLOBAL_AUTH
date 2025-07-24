@@ -20,7 +20,7 @@ Instance authorization is used for all authorization checks, in addition to the 
 
 # Implementation
 
-**Step 1 - Default Authorization / Not added any code to method: get_global_authorizations**
+*Step 1 - Default Authorization / Not added any code to method: get_global_authorizations*
 
 Add global keyword in Behavior Definition file.
 
@@ -37,11 +37,17 @@ Method get_global_authorizations --> Not added any code ( By defalut having acce
 <img width="913" height="380" alt="image" src="https://github.com/user-attachments/assets/a8ceec42-1dd3-4f90-b05f-20201d272950" />
 
 
-**Step 2 - Implement Authorization by adding required code in method: get_global_authorizations**
+*Step 2 - Implement Authorization by adding required code in method: get_global_authorizations*
 
-Disable access to update/edit action.
+Disable access to delete and edit action with below code.
 
-<img width="620" height="465" alt="image" src="https://github.com/user-attachments/assets/f288eb34-0bfd-4a03-9444-fce2faaf3822" />
+<img width="650" height="531" alt="image" src="https://github.com/user-attachments/assets/b5ab993c-8f92-4b0c-942c-67ee25625ce6" />
 
+Preview the App.
+
+<img width="946" height="436" alt="image" src="https://github.com/user-attachments/assets/521aba84-7d68-4bea-aba6-d9e6466f2e33" />
+
+We see no edit / delete option available at object page after global authorization implemented.
+<img width="942" height="426" alt="image" src="https://github.com/user-attachments/assets/6aa9b6d2-9536-47f5-b3e0-e70152214ada" />
 
 
