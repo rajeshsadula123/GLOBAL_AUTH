@@ -30,3 +30,6 @@ Define global authorization in the behavior definition and implement it in the b
 
 Method get_global_authorizations --> Not added any code ( By defalut having access to all operations like Create/Edit/Delete ).
 
+<img width="918" height="374" alt="image" src="https://github.com/user-attachments/assets/417f9bd9-10a0-4c18-b9ea-596775ce5c27" />
+
+
